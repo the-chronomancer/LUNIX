@@ -1,3 +1,5 @@
+ORIGINAL README FROM SOURCEFORGE
+_____________________________________________
 This is the (new) development tree of LNG (LUnix next generation)
 I decided to rewrite it from scratch, because i don't want to use those
 old LUnix/LUnix0.8 stuff i've written years ago any more.
