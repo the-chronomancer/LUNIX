@@ -1,3 +1,5 @@
+This is a duplicate of a SourceForge repository for Lunix, **I AM NOT THE CREATOR OF THIS SOFTWARE** nor do I provide any support. I felt it important to see a piece of technology like this on GitHub!
+
 **ORIGINAL README FROM SOURCEFORGE**
 _____________________________________________
 This is the (new) development tree of LNG (LUnix next generation)
